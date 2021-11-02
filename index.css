@@ -9,6 +9,13 @@ h1{
     font-size: 65px;
 }
 
+nav::before{
+    content: ;
+}
+nav::after{
+    content: ;
+}
+
 sh{
    font-weight: bold;
    font-size: 18px; 
@@ -20,13 +27,19 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: purple solid 5px;
 }
 
 body>p{
     font-size: 20px;
 }
 
-p ul#GCSE{
-    font-weight: bold;
+
+ul:hover{
     color: wheat;
+    font-family: 'Fruktur', cursive;
+}
+
+#GCSEs:first-child{
+    t
 }
