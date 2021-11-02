@@ -9,10 +9,24 @@ h1{
     font-size: 65px;
 }
 
+sh{
+   font-weight: bold;
+   font-size: 18px; 
+}
+
 img{
     height: 15cm;
     width: 15cm;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+body>p{
+    font-size: 20px;
+}
+
+p ul#GCSE{
+    font-weight: bold;
+    color: wheat;
 }
